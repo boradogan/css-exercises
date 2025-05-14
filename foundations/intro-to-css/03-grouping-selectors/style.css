@@ -1,0 +1,15 @@
+/* Stylesheet */
+button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+
+}
+
+.button_style_1 {
+    background-color: black;
+    color: white;
+}
+
+.button_style_2 {
+    background-color: yellow;
+}
