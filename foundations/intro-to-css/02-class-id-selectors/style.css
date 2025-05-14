@@ -1,0 +1,19 @@
+/* Style Sheet */
+
+.odd {
+    background-color: #cb5999;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.bigger{
+    font-size: 24px;
+}
+#forth {
+    background-color: rgb(31, 119, 56);
+    font-size: 24px;
+    font-weight: bold;
+
+}
